@@ -1,0 +1,13 @@
+<dataset>
+  <metas>
+    <meta name="datafilename">dem_quiet_sun.csv</meta>
+    <meta name="description">Differential emission measure of the (non-flaring) quiet sun</meta>
+    <meta name="keywords">dem,quiet</meta>
+    <meta name="event_id">NA</meta>
+    <meta name="instruments">EUV spectrometer-spectroheliometer Skylab</meta>
+    <meta name="reference_doi">10.1086/190539</meta>
+    <meta name="acknowledgment">K.P.Dere, produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration (Aug 2002)</meta>
+    <meta name="notes">Assumes a constant pressure of 3.00e+15 cm-3 K and solar coronal abundances</meta>
+    <meta name="col_units">None</meta>
+  </metas>
+</dataset>

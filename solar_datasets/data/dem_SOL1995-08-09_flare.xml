@@ -1,0 +1,13 @@
+<dataset>
+  <metas>
+    <meta name="datafilename">dem_SOL1995-08-09_flare.csv</meta>
+    <meta name="description">Differential emission measure of a GOES M2 class flare</meta>
+    <meta name="keywords">dem,flare</meta>
+    <meta name="event_id">SOL1973-08-09</meta>
+    <meta name="instruments">Solrad9,Skylab</meta>
+    <meta name="reference_doi">10.1086/157013</meta>
+    <meta name="acknowledgment">K.P.Dere and G. Del Zanna, produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration (Aug 2002)</meta>
+    <meta name="notes">composite of August 9 1553 and 1554 UT data, modified at high temperature (7.3 to 8.0) by G.Del Zanna to include the emissivities of the hottest ions.</meta>
+    <meta name="col_units">None</meta>
+  </metas>
+</dataset>

@@ -1,0 +1,12 @@
+default_context:
+  package_name: solar_datasets
+  module_name: solar_datasets
+  short_description: A collection of canonical solar datasets.
+  author_name: Steven D. Christe
+  author_email: steven.christe@nasa.gov
+  license: BSD 3-Clause
+  project_url: http://github.com/ehsteve/solar_datasets/
+  github_repo: ehsteve/solar_datasets
+  minimum_python_version: 3.6
+  use_compiled_extensions: n
+  include_example_code: n

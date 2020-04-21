@@ -1,0 +1,13 @@
+<dataset>
+  <metas>
+    <meta name="datafilename">SOL2002-07-23_RHESSI_flare_spectrum.csv</meta>
+    <meta name="description">RHESSI measurement of the x-ray spectrum of a GOES X4.8 class flare</meta>
+    <meta name="keywords">spectrum, x-ray, flare</meta>
+    <meta name="event_id">SOL2002-07-23</meta>
+    <meta name="instruments">rhessi</meta>
+    <meta name="reference_doi">10.1007/s11214-011-9801-0</meta>
+    <meta name="acknowledgment">Albert Shih (ORCID iD 0000-0001-6874-2594)</meta>
+    <meta name="notes">spectrum below 250 keV is the 2-minute average over the peak, spectrum above 250 keV is the flare-integrated spectrum scaled up for continuity</meta>
+    <meta name="col_units">keV, keV, keV, keV, photon s-1 cm-2 keV-1</meta>
+  </metas>
+</dataset>
