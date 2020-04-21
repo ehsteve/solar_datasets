@@ -5,6 +5,12 @@ A collection of canonical solar datasets.
     :target: http://www.sunpy.org
     :alt: Powered by SunPy Badge
 
+Documentation
+-------------
+The latest version of the documentation can be found at
+
+* `https://solar-datasets.readthedocs.io/en/latest/ <https://solar-datasets.readthedocs.io/en/latest/>`_
+
 License
 -------
 
